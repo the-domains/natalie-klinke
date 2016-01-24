@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Natalie Klinke]]></title>
         <description><![CDATA[Natalie Klinke]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/natalie-klinke/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 11:22:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 11:23:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/natalie-klinke/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[After a long time of waiting and wondering, now im in the beta of the Grid.]]></title>
+            <description><![CDATA[<article><h1>After a long time of waiting and wondering, now im in the beta of the Grid.</h1><p>As Webdeveloper im very curious what the Grid will provide, and how my Posts are looking like. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/043b67dfe521b20f3bbf187042f3a1f94dccee01.jpg"></article>]]></description>
+            <link>https://thegrid.ai/natalie-klinke/after-a-long-time-of-waiting-and-wondering-now-im-in-the-be/index.html</link>
+            <guid isPermaLink="false">a679a7ba-f545-4ec5-97ec-589cdd02b012</guid>
+            <pubDate>Sun, 24 Jan 2016 11:22:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Going to live as digital Normad]]></title>
             <description><![CDATA[<article><h1>Going to live as digital Normad</h1><p>After a lot of changes and thoughts, i decided that i will change my work-live balance and way of working. Since i was little i dream about traveling. But as a young mother, i didn't have the money, i didn't have the possibility. Even if live was tough as young mother, i have made it. Now after 12 years of freelancing as frontenddeveloper and  specialized in TYPO3, managing a lot of projects i ask my self how live should go on.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/999ac885-604a-4a7f-b7b2-16fa9af938cf.JPG"></article>]]></description>
-            <link>undefinedgoing-to-live-as-digital-normad/index.html</link>
+            <link>https://thegrid.ai/natalie-klinke/going-to-live-as-digital-normad/index.html</link>
             <guid isPermaLink="false">be7ce814-75cd-4b59-89f2-39d803d9d7cb</guid>
             <pubDate>Sun, 24 Jan 2016 11:22:26 GMT</pubDate>
         </item>
