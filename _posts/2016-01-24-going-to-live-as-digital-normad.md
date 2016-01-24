@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T11:22:26.776Z'
-dateModified: '2016-01-24T11:21:22.274Z'
+datePublished: '2016-01-24T11:28:26.263Z'
+dateModified: '2016-01-24T11:27:59.433Z'
 title: Going to live as digital Normad
 author: []
+sourcePath: _posts/2016-01-24-going-to-live-as-digital-normad.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-24-going-to-live-as-digital-normad.md
-published: true
 url: going-to-live-as-digital-normad/index.html
 _type: Article
 
@@ -28,4 +28,4 @@ After a lot of changes and thoughts, i decided that i will change my work-live b
 
 I love my job and everything around. Working in opensource groups and topics match my personal views. People are open minded and always solution-oriented. How much more experience will it be, if you get in contact with international people? 
 
-2016 is the year to explore this thought. So i send a high-five to all digital nomads who already has made it and i look forward to meet you. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/999ac885-604a-4a7f-b7b2-16fa9af938cf.JPG)
+2016 is the year to explore this thought. So i send a high-five to all digital nomads who already has made it and i look forward to meet you. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cf8313f-27d4-42ca-a862-f43b4a59b396.jpg)
