@@ -1,0 +1,28 @@
+name: Natalie Klinke
+favicon: null
+layout_spectrum: 0.2504648109897971
+typography_spectrum: 0.7634198393207043
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9059924308676273
+  lightness: 0.37909972248598933
+  saturation: 0.35240602120757103
+  rhythmicContrast: 0.5425855845678598
+purpose: []
